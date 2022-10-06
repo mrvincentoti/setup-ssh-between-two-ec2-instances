@@ -31,7 +31,7 @@ This repository contain codes to deploy the sample application on linux instance
 
             - tasks ( playbook to install the software)
 
-5.  main.yml - This is the main file which will execute roles in the playbook
+5.  main.yml - This is the main file which will execute all roles in the playbook
 
 # How to Run the Playbook
 
