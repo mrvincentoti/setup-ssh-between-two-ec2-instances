@@ -19,7 +19,7 @@ This repository contain code to deploy the sample application on linux instances
 
             - tasks ( playbook to install the software)
 
-    b) add_devops_user - This folder will have files related to the setup of initial user on all nodes
+    b) add_devops_user - This folder will have files related to the setup of initial user
 
     c) nginx - this folder will have files related to the installation, configuration of nginx, and deployment of a static website
 
