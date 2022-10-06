@@ -5,7 +5,7 @@ pipeline {
       stage('checkout') {
            steps {
              
-                git branch: 'master', url: 'https://github.com/devops4solutions/Ansible-Sample-Application-Deployment.git'
+                git branch: 'master', url: 'https://github.com/mrvincentoti/setup-ssh-between-two-ec2-instances.git'
              
           }
         }
