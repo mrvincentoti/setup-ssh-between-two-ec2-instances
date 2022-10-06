@@ -1,6 +1,6 @@
 # Setup-SSH-Between-Ansible-And-Nodes
 
-This repository contain codes to deploy the sample application on linux instances
+This repository contain code to deploy the sample application on linux instances
 
 # Directory Structure
 
